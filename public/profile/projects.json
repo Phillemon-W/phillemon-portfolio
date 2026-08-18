@@ -18,8 +18,24 @@
                 "JavaScript",
                 "Portfolio"
             ]
-        },       
-     {
+        }, 
+        
+        {
+            "image": "images/projects/collection-assistant.png",
+            "title": "AI-Powered Collection Assistant",
+            "bodyText": "- AI-powered collection assistant originally developed under the name AndClaw.\n- Automates personalized customer outreach through SMS, WhatsApp, and outbound voice calls using account and outstanding-balance information.\n- Conducted functional testing of its multichannel communication, task execution, message delivery, calling behaviour, performance, and response-handling capabilities.",
+            "links": [],
+            "tags": [
+                "Artificial Intelligence",
+                "Workflow Automation",
+                "Voice Automation",
+                "Mobile App Testing",
+                "SMS",
+                "WhatsApp"
+            ]
+            },
+        
+        {
             "image" : "images/projects/real-estate-platform.png",
             "title": "UAE Real Estate Platform",
             "bodyText": "- Real estate listing platform developed for the UAE property market.\n- Integrates property-listing APIs for displaying and managing property information.\n- Delivers a modern and responsive browsing experience across different devices.",
