@@ -1,33 +1,94 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Remote Technical & Digital Operations Support",
+            "subtitle": "Ceres Tech Limited",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+            "Coordinate with remote engineering and operations teams to resolve technical issues and support daily platform operations.",
+            "Conduct end-to-end functional testing of mobile applications across registration, application, disbursement, and repayment workflows.",
+            "Document application issues using clear reports, screenshots, and screen recordings for technical review.",
+            "Monitor production applications and digital platforms to identify functionality, performance, and user-experience issues.",
+            "Support remote workstations, Android devices, developer-account processes, and other technical tools.",
+            "Administer website content and moderate high volumes of spam, duplicate comments, and user feedback.",
+            "Support digital outreach and assist with producing and editing promotional content.",
+            "Prepare weekly technical and operational reports covering completed tasks, challenges, and recommendations."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "12/2025 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Junior Secondary School Teacher & ICT Expert",
+            "subtitle": "Quaker Hill Academy",
+            "workType": "IT Support and Mentorship",
             "workDescription": [
-                "Worked on abc."
+                "Teach Computer Science, Mathematics, Pre-Technical Studies, and Integrated Science under the CBC curriculum.",
+                "Integrate ICT tools and e-learning platforms to improve lesson delivery and learner engagement.",
+                "Develop digital learning materials aligned with national education standards.",
+                "Provide technical support to staff and maintain the school computer laboratory and digital learning platforms.",
+                "Mentor learners in coding, robotics, and responsible digital citizenship."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "June 2023 – August 2025"
         },
+
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
+            "title": "Cybersecurity Researcher",
+            "subtitle": "Safaricom Bug Bounty Program",
+            "workType": "Independent Security Research",
+            "workDescription": [
+                "Conducted authorized penetration testing and vulnerability assessments on in-scope digital platforms.",
+                "Identified, documented, and responsibly disclosed security vulnerabilities through official bug bounty channels.",
+                "Prepared reproducible technical reports containing supporting evidence, impact assessments, and remediation recommendations.",
+                "Collaborated with security stakeholders during vulnerability triage, validation, and remediation."
+            ],
+            "dateText": "10/2023 – Present"
+        },
+
+        {
+            "title": "Website Designer & Developer",
+            "subtitle": "Destination Masterlink (EA) Ltd",
             "workType": "Freelance",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Designed and developed responsive websites for tourism and logistics clients using PHP, React, and MySQL.",
+                "Handled troubleshooting, bug fixing, maintenance, and version control across multiple projects.",
+                "Collaborated with cross-functional teams to deliver digital branding and marketing solutions.",
+                "Improved website performance, search-engine visibility, usability, and user engagement."
             ],
-            "dateText": "09/20XX – 01/20YY"
-        }
+            "dateText": "01/2023 – December 2023"
+        },
+
+        {
+            "title": "Senior Web Developer & Designer",
+            "subtitle": "Greenleaf Veggies",
+            "workType": "Freelance",
+            "workDescription": [
+                "Designed user-friendly interfaces and implemented database-driven solutions for agribusiness operations.",
+                "Improved website performance and streamlined the management of online product catalogues.",
+                "Worked closely with management to maintain brand consistency across digital platforms."
+            ],
+            "dateText": "09/2022 – 12/2022"
+      },
+
+      {
+            "title": "Real Estate Web Platform Developer",
+            "subtitle": "Self-Directed Project",
+            "workType": "Independent Project",
+            "workDescription": [
+                "Developed a real estate web platform for the UAE market using React.js, Next.js, and Chakra UI.",
+                "Integrated property-listing APIs to display and manage real estate information.",
+                "Improved the platform's user experience through responsive and modern interface design."
+            ],
+            "dateText": "06/2022 – 12/2022"
+        },
+        {
+            "title": "Software Developer Intern",
+            "subtitle": "Safaricom PLC",
+            "workType": "Internship",
+            "workDescription": [
+                "Contributed to the development and testing of internal software applications.",
+                "Assisted with designing and implementing database systems for internal workflows.",
+                "Identified and resolved software defects while contributing to system documentation."
+            ],
+            "dateText": "06/2021 – 12/2021"
+            }
     ]
 }
